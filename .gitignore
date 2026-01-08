@@ -17,15 +17,13 @@ MemoryCaptures/
 # Visual Studio / Rider
 .vs/
 .vscode/
-*.csproj
-*.sln
 *.user
 *.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
+.pidb
+.booproj
+.svd
+.pdb
+.mdb
 
 # OS generated files
 .DS_Store
@@ -50,6 +48,3 @@ Temp/
 # NPM
 node_modules/
 # Large texture and high-resolution formats (avoid committing huge assets)
-*.tif
-*.exr
-*8k*.png
