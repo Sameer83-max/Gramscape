@@ -1,0 +1,1 @@
+C:\Users\sipia\Gramscape\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5y2t4j19\obj\arm64-v8a
